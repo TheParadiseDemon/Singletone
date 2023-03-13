@@ -1,0 +1,3 @@
+D:/Desktop files/C++ tries/SingleTone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Desktop files/C++ tries/SingleTone/cmake-build-debug/CMakeFiles/SingleTone.dir
+D:/Desktop files/C++ tries/SingleTone/cmake-build-debug/CMakeFiles/edit_cache.dir
